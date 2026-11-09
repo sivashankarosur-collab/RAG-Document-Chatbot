@@ -1,4 +1,4 @@
-# 📄 Multi-DOCUMENT RAG Chatbot
+# 📄 RAG-DOCUMENT-Chatbot
 
 An intelligent **Retrieval-Augmented Generation (RAG)** chatbot built with **Streamlit, LangChain, ChromaDB, and SentenceTransformers**. The application allows users to upload multiple PDF documents and ask questions in natural language. The chatbot retrieves relevant information from the uploaded PDFs and generates accurate answers with source citations.
 
